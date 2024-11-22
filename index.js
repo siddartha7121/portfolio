@@ -1,5 +1,10 @@
 const technalogies = [
   {
+    item: "./logo/react-removebg-preview.png",
+    name: "REACT",
+    data: "Used to devolop reusable components in html",
+  },
+  {
     item: "./logo/php-removebg-preview.png",
     name: "php",
     data: "A famous backend script to interact with database",
@@ -38,11 +43,6 @@ const technalogies = [
     item: "./logo/bootstrap-removebg-preview.png",
     name: "bootstrap",
     data: "A front-end framework for building web pages",
-  },
-  {
-    item: "./logo/react-removebg-preview.png",
-    name: "REACT",
-    data: "Used to devolop reusable components in html",
   },
 ];
 const typed1 = new Typed(".name-text", {
