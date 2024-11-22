@@ -5,6 +5,11 @@ const technalogies = [
     data: "Used to devolop reusable components in html",
   },
   {
+    item: "./logo/laravel-removebg-preview.png",
+    name: "LARAVEL",
+    data: "Backend php framework",
+  },
+  {
     item: "./logo/php-removebg-preview.png",
     name: "php",
     data: "A famous backend script to interact with database",
@@ -18,11 +23,6 @@ const technalogies = [
     item: "./logo/linux-removebg-preview.png",
     name: "LINUX",
     data: "Fanmous OS for devoloppers",
-  },
-  {
-    item: "./logo/laravel-removebg-preview.png",
-    name: "LARAVEL",
-    data: "Backend php framework",
   },
   {
     item: "./logo/JavaScript-removebg-preview.png",
