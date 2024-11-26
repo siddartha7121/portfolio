@@ -26,22 +26,22 @@ const technalogies = [
   },
   {
     item: "./logo/JavaScript-removebg-preview.png",
-    name: "javascript",
-    data: "makes dynamic web pages",
+    name: "Javascript",
+    data: "Makes dynamic web pages",
   },
   {
     item: "./logo/html-removebg-preview.png",
-    name: "html",
-    data: "for devolop frontend static web pages",
+    name: "Html",
+    data: "For devolop frontend static web pages",
   },
   {
     item: "./logo/css-removebg-preview.png",
-    name: "css",
-    data: "for beautify user interfaces we use these",
+    name: "Css",
+    data: "For beautify user interfaces we use these",
   },
   {
     item: "./logo/bootstrap-removebg-preview.png",
-    name: "bootstrap",
+    name: "Bootstrap",
     data: "A front-end framework for building web pages",
   },
 ];
