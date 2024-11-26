@@ -44,7 +44,7 @@ const technalogies = [
     name: "Bootstrap",
     data: "A front-end framework for building web pages",
   },
-];
+]; 
 const typed1 = new Typed(".name-text", {
   strings: ["Full Stack Developer"],
   typeSpeed: 100,
