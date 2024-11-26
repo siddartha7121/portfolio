@@ -15,14 +15,14 @@ const technalogies = [
     data: "A famous backend script to interact with database",
   },
   {
-    item: "./logo/mysql-removebg-preview.png",
-    name: "MYSQL",
-    data: "TO store data we use MYSQL",
-  },
-  {
     item: "./logo/linux-removebg-preview.png",
     name: "LINUX",
     data: "Fanmous OS for devoloppers",
+  },
+  {
+    item: "./logo/mysql-removebg-preview.png",
+    name: "MYSQL",
+    data: "TO store data we use MYSQL",
   },
   {
     item: "./logo/JavaScript-removebg-preview.png",
