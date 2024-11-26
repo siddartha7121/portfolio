@@ -17,7 +17,7 @@ const technalogies = [
   {
     item: "./logo/linux-removebg-preview.png",
     name: "LINUX",
-    data: "Fanmous OS for devoloppers",
+    data: "Famous OS for devolopers",
   },
   {
     item: "./logo/mysql-removebg-preview.png",
